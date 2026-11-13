@@ -1,9 +1,9 @@
 {
   "id": "./",
-  "name": "مسیر لندن",
-  "short_name": "مسیر لندن",
-  "lang": "fa",
-  "dir": "rtl",
+  "name": "Move to London",
+  "short_name": "Move to London",
+  "lang": "en",
+  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

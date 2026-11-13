@@ -3,3 +3,4 @@
 [hidden]{display:none!important}#error{font-size:12px;color:#a33;min-height:18px}iframe{width:100%;height:100dvh;border:0;display:block}.unlocked{display:block}button:disabled{opacity:.65;cursor:wait}
 
 .login-logo{display:block;width:180px;height:180px;max-width:100%;object-fit:contain;margin:-12px auto 8px}main{box-shadow:0 14px 45px #4b237c0a}h1{margin:0 0 24px;color:#4b237c}button:hover{background:#633995}input{background:#fdfbff}input:focus{border-color:#9871c8}#error{color:#ac3d62}button:disabled:hover{background:#4b237c}
+body{font-family:Arial,Helvetica,Vazirmatn,sans-serif}main{border-radius:4px;border-top:8px solid #9871c8;padding:30px;width:min(390px,calc(100% - 36px))}h1{font-size:27px;font-weight:750;letter-spacing:-.6px;margin:0 0 10px}.login-subtitle{text-align:center;color:#776187;font-size:13px;margin:0 0 28px;line-height:1.6}.login-logo{width:190px;height:190px;margin:-12px auto 2px}button{border-radius:4px;font-weight:600}input{border-radius:4px}
